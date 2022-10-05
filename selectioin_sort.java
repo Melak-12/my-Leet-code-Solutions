@@ -4,8 +4,7 @@ class Solution
 {
 	int  select(int arr[], int i)
 	{
-        // code here such that selectionSort() sorts arr[]
-        
+       
         return 0;
     }
 	
